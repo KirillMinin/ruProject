@@ -1,0 +1,45 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "wwwroot", "ftp://minin.us/minin/wwwroot/ru.minin.us/wwwroot", "{04C72E4B-B50B-4B5B-8A15-7E414BE55846}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/wwwroot"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\..\..\..\..\..\..\..\AppData\Local\Temp\VWDWebCache\ftp_minin.us_minin_wwwroot_ru.minin.us_wwwroot_RootMininUsAdm\"
+		Debug.AspNetCompiler.TargetPath = "..\..\..\..\OneDrive\Kirill - Personal\Cronology\2017\06 June\VS\minin\ru\wwwroot\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/wwwroot"
+		Release.AspNetCompiler.PhysicalPath = "..\..\..\..\..\..\..\..\..\AppData\Local\Temp\VWDWebCache\ftp_minin.us_minin_wwwroot_ru.minin.us_wwwroot_RootMininUsAdm\"
+		Release.AspNetCompiler.TargetPath = "..\..\..\..\OneDrive\Kirill - Personal\Cronology\2017\06 June\VS\minin\ru\wwwroot\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ruProject", "ruProject.csproj", "{883DC101-5701-4ED0-937C-1F8F6530EC81}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04C72E4B-B50B-4B5B-8A15-7E414BE55846}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04C72E4B-B50B-4B5B-8A15-7E414BE55846}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04C72E4B-B50B-4B5B-8A15-7E414BE55846}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{04C72E4B-B50B-4B5B-8A15-7E414BE55846}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{883DC101-5701-4ED0-937C-1F8F6530EC81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{883DC101-5701-4ED0-937C-1F8F6530EC81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{883DC101-5701-4ED0-937C-1F8F6530EC81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{883DC101-5701-4ED0-937C-1F8F6530EC81}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
